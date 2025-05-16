@@ -33,5 +33,4 @@ Design a toll booth system that models the road network as a weighted graph. Use
 python toll_booth_dijkstra.py
 📚 References
 Introduction to Algorithms by Cormen et al
-
 GeeksforGeeks – Dijkstra’s Algorithm
